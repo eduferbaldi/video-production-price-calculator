@@ -94,3 +94,7 @@ h1 {
     border-radius: 1em;
   }
 }
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+}
